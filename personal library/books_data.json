@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "year": 2015,
+        "genre": "Programming",
+        "read": true
+    },
+    {
+        "title": "Learning Python",
+        "author": "Mark Lutz",
+        "year": 2013,
+        "genre": "Programming",
+        "read": false
+    },
+    {
+        "title": "Eloquent JavaScript",
+        "author": "Marijn Haverbeke",
+        "year": 2018,
+        "genre": "Programming",
+        "read": false
+    },
+    {
+        "title": "You Don't Know JS",
+        "author": "Kyle Simpson",
+        "year": 2015,
+        "genre": "JavaScript",
+        "read": false
+    },
+    {
+        "title": "my codding journey",
+        "author": "Rimsha sultan",
+        "year": "2024",
+        "genre": "programming",
+        "read": true
+    }
+]
